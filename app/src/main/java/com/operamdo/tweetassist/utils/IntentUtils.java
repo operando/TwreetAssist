@@ -14,7 +14,7 @@ public final class IntentUtils {
     }
 
     public static void openTwitter(Context context, String text) {
-        String url = "http://twitter.com/share?text=" + text;
+        String url = "http://twitter.com/intent/tweet?text=" + text;
         Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
         context.startActivity(intent);
     }
