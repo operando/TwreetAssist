@@ -1,11 +1,11 @@
-package com.operamdo.tweetassist.activityes;
+package com.operando.os.tweetassist.activityes;
 
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.operamdo.tweetassist.constants.PreferenceKey;
-import com.operamdo.tweetassist.utils.IntentUtils;
-import com.operamdo.tweetassist.utils.PreferenceUtils;
+import com.operando.os.tweetassist.constants.PreferenceKey;
+import com.operando.os.tweetassist.utils.IntentUtils;
+import com.operando.os.tweetassist.utils.PreferenceUtils;
 
 public class TweetAssistActivity extends Activity {
 

@@ -1,11 +1,11 @@
-package com.operamdo.tweetassist.activityes;
+package com.operando.os.tweetassist.activityes;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.operamdo.tweetassist.R;
+import com.operando.os.tweetassist.R;
 
 
 public class MainActivity extends Activity {

@@ -1,9 +1,9 @@
-package com.operamdo.tweetassist.activityes;
+package com.operando.os.tweetassist.activityes;
 
 import android.os.Bundle;
 import android.preference.PreferenceFragment;
 
-import com.operamdo.tweetassist.R;
+import com.operando.os.tweetassist.R;
 
 
 public class SettingsFragment extends PreferenceFragment {

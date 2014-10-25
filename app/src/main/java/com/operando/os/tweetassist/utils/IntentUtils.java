@@ -1,4 +1,4 @@
-package com.operamdo.tweetassist.utils;
+package com.operando.os.tweetassist.utils;
 
 import android.content.Context;
 import android.content.Intent;

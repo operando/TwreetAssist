@@ -1,4 +1,4 @@
-package com.operamdo.tweetassist.constants;
+package com.operando.os.tweetassist.constants;
 
 public final class PreferenceKey {
     private PreferenceKey() {

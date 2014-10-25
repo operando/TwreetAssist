@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.operamdo.tweetassist">
+    package="com.operando.os.tweetassist">
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.operamdo.tweetassist.activityes.MainActivity"
+            android:name="com.operando.os.tweetassist.activityes.MainActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.operamdo.tweetassist.activityes.TweetAssistActivity"
+            android:name="com.operando.os.tweetassist.activityes.TweetAssistActivity"
             android:label="@string/title_activity_twitter_assist"
             android:theme="@style/TweetAssistTheme">
             <intent-filter>
@@ -31,7 +31,7 @@
                 android:resource="@drawable/assist_icon" />
         </activity>
         <activity
-            android:name="com.operamdo.tweetassist.activityes.SettingsActivity"
+            android:name="com.operando.os.tweetassist.activityes.SettingsActivity"
             android:label="@string/title_activity_setting"></activity>
     </application>
 
