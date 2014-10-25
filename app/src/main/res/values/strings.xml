@@ -8,4 +8,9 @@
     <string name="title_activity_twitter_assist">TwitterAssistActivity</string>
     <string name="title_activity_setting">Settings</string>
 
+    <string name="pref_title_default_tweet_text">Default tweet text</string>
+    <string name="pref_key_default_tweet_text">default_tweet_text</string>
+    <string name="pref_value_default_tweet_text">now</string>
+
+
 </resources>

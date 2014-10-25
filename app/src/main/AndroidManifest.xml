@@ -18,7 +18,8 @@
         </activity>
         <activity
             android:name="com.operamdo.tweetassist.activityes.TweetAssistActivity"
-            android:label="@string/title_activity_twitter_assist">
+            android:label="@string/title_activity_twitter_assist"
+            android:theme="@style/TweetAssistTheme">
             <intent-filter>
                 <action android:name="android.intent.action.ASSIST" />
 
